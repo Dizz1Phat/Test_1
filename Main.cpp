@@ -13,5 +13,5 @@ int main () {
         o += i;
     };
 
-    cout <<"So de quy (n): ";
+    cout <<"So de quy (n): " <<o;
 }
