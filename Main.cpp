@@ -7,4 +7,5 @@ int main () {
     int n;
     cout <<"Nhap so tu nhien tu ban phim: ";
     cin >> n;
+     // Tạo
 }
